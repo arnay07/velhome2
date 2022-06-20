@@ -1,0 +1,179 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  background: #1f1f1f;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__fj923 {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+.freeBox__fj923 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.freeBox__fj923 > :global(.__wab_flex-container) > *,
+.freeBox__fj923 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__fj923 > :global(.__wab_flex-container) > picture > img,
+.freeBox__fj923
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 32px;
+}
+.freeBox__sAsWs {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 400px;
+  max-width: 600px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px;
+}
+.freeBox__sAsWs > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox__sAsWs > :global(.__wab_flex-container) > *,
+.freeBox__sAsWs > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__sAsWs > :global(.__wab_flex-container) > picture > img,
+.freeBox__sAsWs
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.freeBox__vshrm {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+.freeBox__vshrm > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__vshrm > :global(.__wab_flex-container) > *,
+.freeBox__vshrm > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__vshrm > :global(.__wab_flex-container) > picture > img,
+.freeBox__vshrm
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.text {
+  line-height: 1.5;
+  color: #687076;
+}
+.h2 {
+  position: relative;
+  line-height: 1;
+  color: #11181c;
+  font-weight: 900;
+  margin-top: calc(0px + 8px) !important;
+}
+.supabaseUserSignUp:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+.formContext:global(.__wab_instance) {
+  display: grid;
+  grid-template-rows: auto auto;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-auto-columns: 1fr;
+  grid-row-gap: 16px;
+}
+.freeBox__fa3M3 {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+.freeBox__fa3M3 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox__fa3M3 > :global(.__wab_flex-container) > *,
+.freeBox__fa3M3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__fa3M3 > :global(.__wab_flex-container) > picture > img,
+.freeBox__fa3M3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.formTextInput__i3Wn:global(.__wab_instance) {
+  max-width: 100%;
+}
+.svg___9VD36 {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__lR3Hd {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.formTextInput__tWcQm:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__a6WvK {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__y1HGy {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__lQVpv {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__btQx {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.link {
+  align-self: center;
+  margin-top: calc(0px + 32px) !important;
+}

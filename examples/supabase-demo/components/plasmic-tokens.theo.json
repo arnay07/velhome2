@@ -1,0 +1,29 @@
+{
+  "props": [
+    {
+      "name": "UnnamedStyleToken",
+      "type": "color",
+      "value": "#FF0000",
+      "category": "color",
+      "meta": {
+        "projectId": "uQ1tStPUiuweYuxMksqyYP",
+        "id": "cjDiKvuRXgr82h"
+      }
+    },
+    {
+      "name": "maxWidth",
+      "type": "spacing",
+      "value": "2048px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "uQ1tStPUiuweYuxMksqyYP",
+        "id": "mHnzzwvaU691MB"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
